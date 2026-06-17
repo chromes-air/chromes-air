@@ -14,6 +14,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chromes-air&show_icons=true&theme=dark)](https://github.com/chromes-air)
 
-## Stagdeer Pin
+## Project Pin
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=StagdeerThread&theme=dark)](https://github.com/chromes-air/stagdeer-threadlib-cc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=stagdeer-threadlib-cc&theme=dark)](https://github.com/chromes-air/stagdeer-threadlib-cc)
