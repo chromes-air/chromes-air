@@ -18,4 +18,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=stagdeer-threadlib-cc&theme=dark)](https://github.com/chromes-air/stagdeer-threadlib-cc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=stagdeer-threadlib-cc&theme=dark)](https://github.com/chromes-air/catio-cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=catio-cpp&theme=dark)](https://github.com/chromes-air/catio-cpp)
