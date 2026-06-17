@@ -26,5 +26,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=catio-cpp&theme=dark)](https://github.com/chromes-air/catio-cpp)
 
 ##
-
-[![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-8A2BE2)](https://github.com/chromes-air)
