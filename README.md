@@ -14,4 +14,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chromes-air&show_icons=true&theme=dark)](https://github.com/chromes-air)
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/chromes-air/StagdeerThread/ci.yml?branch=main)](https://github.com/chromes-air/StagdeerThread/actions)
+## Stagdeer Pin
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=StagdeerThread&theme=dark)](https://github.com/chromes-air/StagdeerThread)
