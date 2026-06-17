@@ -1,4 +1,4 @@
-## 🦌 Stagdeer
+## Stagdeer 
 
 ![C++](https://img.shields.io/badge/C++-20-blue)
 ![Template](https://img.shields.io/badge/Template-COOL-red)
