@@ -1,6 +1,6 @@
 <div style='display:flex;'>
 <h3>Stagdeer Project</h3>
-<img src='stagdeer-logo.png' width="80" alt="Stagdeer Logo">
+<img src='stagdeer-logo.png' width="100%" alt="Stagdeer Logo">
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-20-00599C?logo=c%2B%2B&logoColor=white" alt="C++20">
