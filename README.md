@@ -14,6 +14,4 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chromes-air&show_icons=true&theme=dark)](https://github.com/chromes-air)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chromes-air/chromes-air/main/assets/deer-running.jpg" alt="Running Deer" width="100%">
-</p>
+[![Build Status](https://img.shields.io/github/actions/workflow/status/chromes-air/StagdeerThread/ci.yml?branch=main)](https://github.com/chromes-air/StagdeerThread/actions)
