@@ -1,5 +1,5 @@
 <div style='display:flex;'>
-<h3>Stagdeer</h3>
+<h3>Stagdeer Project</h3>
 <img src='stagdeer-logo.png'>
 </div>
 <p align="center">
