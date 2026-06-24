@@ -19,10 +19,4 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chromes-air&show_icons=true&theme=dark)](https://github.com/chromes-air)
 
-## Project Pin
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=catio-cpp&theme=dark)](https://github.com/Stagdeer-Lips/stagdeer-Mtasc)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromes-air&repo=catio-cpp&theme=dark)](https://github.com/chromes-air/catio-cpp)
-
-##
