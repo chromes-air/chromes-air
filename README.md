@@ -17,6 +17,4 @@
 <img src="https://img.shields.io/badge/Connection-Async-FF6B6B?logo=webtc&logoColor=white" alt="Async Connection">
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chromes-air&show_icons=true&theme=dark)](https://github.com/chromes-air)
-
 
