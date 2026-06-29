@@ -1,6 +1,6 @@
 <div style='display:flex;'>
 <h3>Stag Project</h3>
-<img src='stagdeer-logo.png' width="100%" alt="Stagdeer Logo">
+<img src='stag_editor.png' width="100%" alt="stag Logo">
 </div>
 
 ##
