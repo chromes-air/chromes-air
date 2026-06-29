@@ -1,10 +1,12 @@
 <div style='display:flex;'>
-<h3>Stagdeer Project</h3>
+<h3>Stag Project</h3>
 <img src='stagdeer-logo.png' width="100%" alt="Stagdeer Logo">
 </div>
 
 ##
 
+### Go into the organization to check the project
+<a href='https://github.com/stag/'> Stag project </a> 
 ##
 
 <p align="center" style='margin:auto;'>
