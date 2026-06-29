@@ -6,7 +6,7 @@
 ##
 
 ### Go into the organization to check the project
-<a href='https://github.com/stag/'> Stag project </a> 
+<a href='https://github.com/stag_project/'> Stag project </a> 
 ##
 
 <p align="center" style='margin:auto;'>
